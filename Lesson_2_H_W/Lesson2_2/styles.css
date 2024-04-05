@@ -1,0 +1,28 @@
+.flex-container{
+    display: flex;
+    height: 100vh;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #FFE2C4;
+}
+
+.flex-item{
+    width: 100px;
+    height: 100px;
+    background-color: #FE0000;
+}
+
+.flex-item:hover{
+    background-color: #946262;
+    border-radius: 50%;
+    transform: rotate(0.5turn);
+    transition: 3s;
+}
+
+@media screen and (max-width: 768px) {
+    .flex-container {
+        -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+        flex-direction: column;
+    }
+}
