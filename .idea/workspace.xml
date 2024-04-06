@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b8d03ad-092b-4973-a64b-1129a83f759a" name="Changes" comment="" />
+    <list default="true" id="7b8d03ad-092b-4973-a64b-1129a83f759a" name="Changes" comment="Lesson2_H_W">
+      <change afterPath="$PROJECT_DIR$/Lesson_3_H_W/Lesson3_1_m1/lesson3_1_m2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_3_H_W/Lesson3_1_m1/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_3_H_W/Lesson3_1_m2/lesson3_1_m2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_3_H_W/Lesson3_1_m2/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_3_H_W/Lesson3_1_m3/lesson3_1_m3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_3_H_W/Lesson3_1_m3/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_3_H_W/Lesson3_1_m4/lesson3_1_m4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_3_H_W/Lesson3_1_m4/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_3_H_W/Lesson3_1_m5/lesson3_1_m5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_3_H_W/Lesson3_1_m5/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,25 +25,43 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2eew7UytRFFnjaCVwQG3DDr6O0n" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JavaScript Debug.lesson2_3.html.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/acer/IdeaProjects/HTML_H_W/Lesson_3_H_W",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\acer\IdeaProjects\HTML_H_W\Lesson_3_H_W" />
+      <recent name="C:\Users\acer\IdeaProjects\HTML_H_W\Lesson_3_H_W\Lesson3_1_m3" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\acer\IdeaProjects\HTML_H_W\Lesson_3_H_W\Lesson3_1" />
+      <recent name="C:\Users\acer\IdeaProjects\HTML_H_W" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -37,11 +70,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1712278185193</updated>
-      <workItem from="1712278186170" duration="2000" />
+      <workItem from="1712278186170" duration="498000" />
+      <workItem from="1712417797278" duration="16331000" />
     </task>
+    <task id="LOCAL-00001" summary="Lesson1_H_W">
+      <option name="closed" value="true" />
+      <created>1712278277917</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712278277917</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Lesson2_H_W">
+      <option name="closed" value="true" />
+      <created>1712278546890</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712278546890</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lesson1_H_W" />
+    <MESSAGE value="Lesson2_H_W" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson2_H_W" />
   </component>
 </project>

@@ -1,0 +1,72 @@
+body {
+    margin: 0;
+}
+
+header {
+    height: 15vh;
+    background-color: #D9D9D9;
+}
+
+footer {
+    height: 10vh;
+    background-color: #D9D9D9;
+}
+
+.main {
+    display: flex;
+    flex-direction: row;
+    height: 75vh;
+}
+
+.block-1,
+.block-2,
+.block-3 {
+    width: calc(100vw / 3);
+    height: 75vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.block-1 div:nth-child(1) {
+    background: linear-gradient(0deg, #A5A5A3 0%, #A5A5A3 100%), linear-gradient(0deg, #979796 0%, #979796 100%), #979796;
+    height: calc(75vh / 3);
+}
+
+.block-1 div:nth-child(2) {
+    background: linear-gradient(0deg, #BABAB9 0%, #BABAB9 100%), linear-gradient(0deg, #7F816A 0%, #7F816A 100%), #979796;
+    height: calc(75vh / 3);
+}
+
+.block-1 div:nth-child(3) {
+    background: linear-gradient(0deg, #979796 0%, #979796 100%), linear-gradient(0deg, #979796 0%, #979796 100%), #979796;
+    height: calc(75vh / 3);
+}
+
+.block-2 {
+    background: #61615C;
+}
+
+.block-3 div:nth-child(1) {
+    background: #78786F;
+    height: calc(75vh / 2);
+}
+
+.block-3 div:nth-child(2) {
+    background: #828569;
+    height: calc(75vh / 2);
+}
+
+@media screen and (max-width: 768px) {
+    .main {
+        -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        height: auto;
+    }
+
+    .block-1, .block-2, .block-3 {
+        width: 100vw;
+        height: 33.33vh;
+    }
+
+}
