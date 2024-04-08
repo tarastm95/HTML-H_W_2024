@@ -4,17 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b8d03ad-092b-4973-a64b-1129a83f759a" name="Changes" comment="Lesson2_H_W">
-      <change afterPath="$PROJECT_DIR$/Lesson_3_H_W/Lesson3_1_m1/lesson3_1_m2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_3_H_W/Lesson3_1_m1/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_3_H_W/Lesson3_1_m2/lesson3_1_m2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_3_H_W/Lesson3_1_m2/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_3_H_W/Lesson3_1_m3/lesson3_1_m3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_3_H_W/Lesson3_1_m3/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_3_H_W/Lesson3_1_m4/lesson3_1_m4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_3_H_W/Lesson3_1_m4/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_3_H_W/Lesson3_1_m5/lesson3_1_m5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_3_H_W/Lesson3_1_m5/styles.css" afterDir="false" />
+    <list default="true" id="7b8d03ad-092b-4973-a64b-1129a83f759a" name="Changes" comment="Lesson3_H_W_1_m1,m2,m3,m4,m5">
+      <change afterPath="$PROJECT_DIR$/Lesson_3_H_W/Lesson3_3_m1/lesson3_3_m1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_3_H_W/Lesson3_3_m1/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +35,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/acer/IdeaProjects/HTML_H_W/Lesson_3_H_W",
+    "last_opened_file_path": "C:/Users/acer/IdeaProjects/HTML_H_W/Lesson_3_H_W/Lesson3_3_m1",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -54,10 +46,13 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\acer\IdeaProjects\HTML_H_W\Lesson_3_H_W\Lesson3_3_m1" />
+      <recent name="C:\Users\acer\IdeaProjects\HTML_H_W\Lesson_3_H_W\Lesson3_1_m1" />
       <recent name="C:\Users\acer\IdeaProjects\HTML_H_W\Lesson_3_H_W" />
       <recent name="C:\Users\acer\IdeaProjects\HTML_H_W\Lesson_3_H_W\Lesson3_1_m3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\acer\IdeaProjects\HTML_H_W\Lesson_3_H_W\Lesson3_3_m1" />
       <recent name="C:\Users\acer\IdeaProjects\HTML_H_W\Lesson_3_H_W\Lesson3_1" />
       <recent name="C:\Users\acer\IdeaProjects\HTML_H_W" />
     </key>
@@ -71,7 +66,8 @@
       <option name="presentableId" value="Default" />
       <updated>1712278185193</updated>
       <workItem from="1712278186170" duration="498000" />
-      <workItem from="1712417797278" duration="16331000" />
+      <workItem from="1712417797278" duration="17177000" />
+      <workItem from="1712560210459" duration="4218000" />
     </task>
     <task id="LOCAL-00001" summary="Lesson1_H_W">
       <option name="closed" value="true" />
@@ -89,7 +85,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712278546890</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Lesson3_H_W_1_m1,m2,m3,m4,m5">
+      <option name="closed" value="true" />
+      <created>1712439255953</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712439255953</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,6 +102,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lesson1_H_W" />
     <MESSAGE value="Lesson2_H_W" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson2_H_W" />
+    <MESSAGE value="Lesson3_H_W_1_m1,m2,m3,m4,m5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson3_H_W_1_m1,m2,m3,m4,m5" />
   </component>
 </project>

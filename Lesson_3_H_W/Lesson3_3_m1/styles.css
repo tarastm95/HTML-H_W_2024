@@ -1,0 +1,67 @@
+body {
+    margin: 0;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.first {
+    height: 50vh;
+    width: 100vw;
+    background-color: #FFC1CB;
+}
+
+.second {
+    height: 50vh;
+    width: 100vw;
+    background-color: #272727;
+
+}
+
+.title-1 h2, .text-1 p {
+    color: #000000;
+    text-align: center;
+    padding: 0 5vw;
+}
+
+.text-1 p, .text-2 p {
+    font-size: 1.5rem;
+}
+
+.title-1 h2, .title-2 h2 {
+    font-size: 2rem;
+}
+
+.title-2 h2, .text-2 p {
+    color: #ffffff;
+    text-align: center;
+    padding: 0 5vw 0 5vw;
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+@media screen and (max-width: 768px) {
+    .main {
+        -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        height: auto;
+    }
+
+    .text-1 p, .text-2 p {
+        font-size: 0.7rem;
+    }
+
+    .title-1 h2, .title-2 h2 {
+        font-size: 1.5rem;
+    }
+
+}
