@@ -20,23 +20,18 @@ footer {
 
 .block-1, .block-2, .block-3 {
     width: calc(100vw / 3);
+    height: 65vh;
 }
 
 .block-1 {
-    height: 65vh;
-    width: 33vw;
     background-color: #78786F;
 }
 
 .block-2 {
-    height: 65vh;
-    width: 33vw;
     background-color: #61615C;
 }
 
 .block-3 {
-    height: 65vh;
-    width: 33vw;
     background-color: #78786F;
 }
 

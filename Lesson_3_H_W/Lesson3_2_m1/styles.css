@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     margin: 0;
 }
@@ -8,7 +12,7 @@ body {
 }
 
 section {
-    height: 100vh;
+    min-height: 100vh;
     background-color: #8E8E8E;
 }
 
