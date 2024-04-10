@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b8d03ad-092b-4973-a64b-1129a83f759a" name="Changes" comment="Lesson3_2_m1-v2">
+    <list default="true" id="7b8d03ad-092b-4973-a64b-1129a83f759a" name="Changes" comment="Lesson4_1_figma">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_4_H_W/Lesson4_1_model_from_figma/Lesson4_1_model_from_figma.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_4_H_W/Lesson4_1_model_from_figma/Lesson4_1_model_from_figma.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lesson_4_H_W/Lesson4_1_model_from_figma/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_4_H_W/Lesson4_1_model_from_figma/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +67,7 @@
       <workItem from="1712278186170" duration="498000" />
       <workItem from="1712417797278" duration="17177000" />
       <workItem from="1712560210459" duration="13615000" />
-      <workItem from="1712744526220" duration="6573000" />
+      <workItem from="1712744526220" duration="7871000" />
     </task>
     <task id="LOCAL-00001" summary="Lesson1_H_W">
       <option name="closed" value="true" />
@@ -118,7 +117,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712582501815</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Lesson4_1_figma">
+      <option name="closed" value="true" />
+      <created>1712752244801</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1712752244801</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,6 +138,7 @@
     <MESSAGE value="Lesson3_3_m1" />
     <MESSAGE value="Lesson3_2_m1" />
     <MESSAGE value="Lesson3_2_m1-v2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson3_2_m1-v2" />
+    <MESSAGE value="Lesson4_1_figma" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson4_1_figma" />
   </component>
 </project>
