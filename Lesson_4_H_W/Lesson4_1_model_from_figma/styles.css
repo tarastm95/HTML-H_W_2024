@@ -2,8 +2,8 @@ body {
     margin: 0;
 }
 
-h1,p {
-    margin:0;
+h1, p {
+    margin: 0;
     padding: 0;
 }
 
@@ -15,12 +15,12 @@ h1,p {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    min-height: 100vh;
     width: 100%;
 }
 
 .second {
-    height: 100vh;
+    min-height: 100vh;
     width: 100%;
     display: flex;
     justify-content: center;
@@ -41,7 +41,7 @@ h1,p {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    height: 100vh;
+    min-height: 100vh;
 }
 
 .main {
@@ -49,22 +49,35 @@ h1,p {
     flex-direction: column;
 }
 
-.window-first-img{
-    height: 26vh;
-}
-.window-first-img img{
+.window-first-img {
     height: 26vh;
     width: 19.5vw;
 }
 
-.window-first-2 {
+.window-first-img img {
     height: 26vh;
+    width: 19.5vw;
+    padding: 0;
+    margin: 0;
+}
+
+.window-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+    height: 7vh;
+}
+
+.window-first-2 {
+    min-height: 26vh;
     width: 19.5vw;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
     align-items: center;
 }
+
 .window-first-1 {
     background-color: #FAF9F7;
     display: flex;
@@ -113,6 +126,15 @@ button {
     padding-top: 50px;
 }
 
+.window-second-video {
+    padding-top: 20px;
+}
+
+.iframe {
+    width: 62vw;
+    min-height: 70vh;
+}
+
 .window-third-block {
     background-color: rgba(83, 83, 83, 0.40);
     height: 68vh;
@@ -120,6 +142,8 @@ button {
     flex-direction: column;
     justify-content: space-around;
     align-items: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 .window-third-block h1,
@@ -133,4 +157,76 @@ button {
 button {
     color: #6B6666;
 }
+
+.window-third-block-img {
+    width: 90%;
+}
+
+/* Для екранів менше або рівних 768px */
+@media screen and (max-width: 768px) {
+    .window-first-1 {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .window-first-img {
+        min-height: 26vh;
+        min-width: 95vw;
+    }
+
+    .window-first-img img {
+        min-height: 26vh;
+        min-width: 95vw;
+        padding: 0;
+        margin: 0;
+    }
+
+    .window-first-2 {
+        min-height: 40vh;
+        min-width: 60vw;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+    }
+
+    .window-first-1 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .window-button {
+        width: 60vw;
+    }
+
+    .iframe {
+        min-height: 30vh;
+        min-width: 90vw;
+    }
+
+    .third {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .window-second-text h3,
+    .window-second-text p {
+        display: flex;
+        width: 90vw;
+
+    }
+
+    .window-second-text {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .window-third-block {
+        margin-top: 20px;
+    }
+
+}
+
 
