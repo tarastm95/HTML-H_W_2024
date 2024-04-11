@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b8d03ad-092b-4973-a64b-1129a83f759a" name="Changes" comment="Lesson4_1_figma-v2">
-      <change afterPath="$PROJECT_DIR$/Lesson_5_H_W/Lesson5_1/lesson5_1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_5_H_W/Lesson5_1/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_5_H_W/Lesson5_2/lesson5_2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_5_H_W/Lesson5_2/styles.css" afterDir="false" />
+    <list default="true" id="7b8d03ad-092b-4973-a64b-1129a83f759a" name="Changes" comment="Lesson_5_H_W">
+      <change afterPath="$PROJECT_DIR$/Lesson_5_H_W/Lesson5_2/favicon/icon.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson_5_H_W/Lesson5_2/lesson5_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_5_H_W/Lesson5_2/lesson5_2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson_5_H_W/Lesson5_2/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_5_H_W/Lesson5_2/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +54,7 @@
       <recent name="C:\Users\acer\IdeaProjects\HTML_H_W\Lesson_3_H_W\Lesson3_1_m1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\acer\IdeaProjects\HTML_H_W\Lesson_5_H_W\Lesson5_2\favicon" />
       <recent name="C:\Users\acer\IdeaProjects\HTML_H_W\Lesson_5_H_W\Lesson5_1" />
       <recent name="C:\Users\acer\IdeaProjects\HTML_H_W\Lesson_3_H_W\Lesson3_3_m1" />
       <recent name="C:\Users\acer\IdeaProjects\HTML_H_W\Lesson_3_H_W\Lesson3_1" />
@@ -73,7 +73,7 @@
       <workItem from="1712417797278" duration="17177000" />
       <workItem from="1712560210459" duration="13615000" />
       <workItem from="1712744526220" duration="8614000" />
-      <workItem from="1712862108747" duration="6564000" />
+      <workItem from="1712862108747" duration="10897000" />
     </task>
     <task id="LOCAL-00001" summary="Lesson1_H_W">
       <option name="closed" value="true" />
@@ -139,7 +139,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712780467947</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Lesson_5_H_W">
+      <option name="closed" value="true" />
+      <created>1712869106717</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1712869106718</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,6 +162,7 @@
     <MESSAGE value="Lesson3_2_m1-v2" />
     <MESSAGE value="Lesson4_1_figma" />
     <MESSAGE value="Lesson4_1_figma-v2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson4_1_figma-v2" />
+    <MESSAGE value="Lesson_5_H_W" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson_5_H_W" />
   </component>
 </project>

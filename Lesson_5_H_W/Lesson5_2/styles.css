@@ -1,56 +1,45 @@
-.flex-container{
-    display: flex;
+body {
+    font-size: 16px;
+}
+
+.block {
     min-height: 100vh;
-    justify-content: space-around;
-}
-
-.flex-item{
     display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 200px;
-    height: 200px;
-    margin:0 20px 20px 20px;
-    background-color:#FFE3C4;
+    flex-direction: column;
 }
 
-.item-1{
-    font-family: "Rubik Pixels", system-ui;
-    font-weight: 400;
-    font-style: normal;
+#block-1 > ul > li:nth-child(even) {
+    color: pink;
 }
 
-.item-2{
-    font-family: "Sedgwick Ave Display", cursive;
-    font-weight: 400;
-    font-style: normal;
+#block-2 > ul > li:nth-child(odd) {
+    font-size: 22px;
 }
 
-.item-3{
-    font-family: "Dancing Script", cursive;
-    font-optical-sizing: auto;
-    font-weight: 400;
-    font-style: normal;
+#block-3 > ul > li:nth-child(2n+4):after {
+    content: "!";
 }
 
-.item-4{
-    font-family: "Fjalla One", sans-serif;
-    font-weight: 700;
-    font-style: normal;
+#block-4 > ul > li:last-child {
+    color: violet;
 }
 
-.item-5{
-    font-family: "Indie Flower", cursive;
-    font-weight: 400;
-    font-style: normal;
+#block-5 > ul > li::first-letter {
+    font-size: 30px;
+    color: red;
 }
 
-@media screen and (max-width: 768px) {
-    .flex-container {
-        -webkit-flex-direction: row;
-        -ms-flex-direction: row;
-        flex-direction: row;
-        flex-wrap: wrap;
-    }
+#block-6 > ul > li {
+    list-style-type: none;
+}
+
+#block-6 > ul > li::before {
+    content: '';
+    width: 30px;
+    height: 30px;
+    background-image:url("./favicon/icon.png");
+    background-size: cover;
+    display: inline-block;
+    margin-right: 10px;
 }
 
