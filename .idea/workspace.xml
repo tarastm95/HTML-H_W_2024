@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b8d03ad-092b-4973-a64b-1129a83f759a" name="Changes" comment="Lesson4_1_figma">
+    <list default="true" id="7b8d03ad-092b-4973-a64b-1129a83f759a" name="Changes" comment="Lesson4_1_figma-v2">
+      <change afterPath="$PROJECT_DIR$/Lesson_5_H_W/Lesson5_1/lesson5_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_5_H_W/Lesson5_1/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_5_H_W/Lesson5_2/lesson5_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_5_H_W/Lesson5_2/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_4_H_W/Lesson4_1_model_from_figma/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_4_H_W/Lesson4_1_model_from_figma/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,30 +30,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;JavaScript Debug.lesson2_3.html.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/acer/IdeaProjects/HTML_H_W/Lesson_3_H_W&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JavaScript Debug.lesson2_3.html.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/acer/IdeaProjects/HTML_H_W/Lesson_5_H_W/Lesson5_2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\acer\IdeaProjects\HTML_H_W\Lesson_5_H_W\Lesson5_2" />
+      <recent name="C:\Users\acer\IdeaProjects\HTML_H_W\Lesson_5_H_W\Lesson5_1" />
       <recent name="C:\Users\acer\IdeaProjects\HTML_H_W\Lesson_3_H_W" />
       <recent name="C:\Users\acer\IdeaProjects\HTML_H_W\Lesson_3_H_W\Lesson3_3_m1" />
       <recent name="C:\Users\acer\IdeaProjects\HTML_H_W\Lesson_3_H_W\Lesson3_1_m1" />
-      <recent name="C:\Users\acer\IdeaProjects\HTML_H_W\Lesson_3_H_W\Lesson3_1_m3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\acer\IdeaProjects\HTML_H_W\Lesson_5_H_W\Lesson5_1" />
       <recent name="C:\Users\acer\IdeaProjects\HTML_H_W\Lesson_3_H_W\Lesson3_3_m1" />
       <recent name="C:\Users\acer\IdeaProjects\HTML_H_W\Lesson_3_H_W\Lesson3_1" />
       <recent name="C:\Users\acer\IdeaProjects\HTML_H_W" />
@@ -67,7 +72,8 @@
       <workItem from="1712278186170" duration="498000" />
       <workItem from="1712417797278" duration="17177000" />
       <workItem from="1712560210459" duration="13615000" />
-      <workItem from="1712744526220" duration="7871000" />
+      <workItem from="1712744526220" duration="8614000" />
+      <workItem from="1712862108747" duration="6564000" />
     </task>
     <task id="LOCAL-00001" summary="Lesson1_H_W">
       <option name="closed" value="true" />
@@ -125,7 +131,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712752244801</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Lesson4_1_figma-v2">
+      <option name="closed" value="true" />
+      <created>1712780467947</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1712780467947</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,6 +153,7 @@
     <MESSAGE value="Lesson3_2_m1" />
     <MESSAGE value="Lesson3_2_m1-v2" />
     <MESSAGE value="Lesson4_1_figma" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson4_1_figma" />
+    <MESSAGE value="Lesson4_1_figma-v2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson4_1_figma-v2" />
   </component>
 </project>
