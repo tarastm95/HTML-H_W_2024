@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b8d03ad-092b-4973-a64b-1129a83f759a" name="Changes" comment="Lesson5_2" />
+    <list default="true" id="7b8d03ad-092b-4973-a64b-1129a83f759a" name="Changes" comment="Lesson5_2">
+      <change afterPath="$PROJECT_DIR$/Lesson_6_H_W/Lesson6_1/lesson6_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_6_H_W/Lesson6_1/styles/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_6_H_W/Lesson6_1/styles/media_screen_mobile.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_6_H_W/Lesson6_1/styles/media_screen_tablet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_6_H_W/Lesson6_2/lesson6_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_6_H_W/Lesson6_2/styles/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_6_H_W/Lesson6_2/styles/media_screen.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_6_H_W/Lesson6_3/lesson6_3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_6_H_W/Lesson6_3/styles/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_6_H_W/Lesson6_3/styles/media_screen.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +49,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.web.browsers",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -69,6 +82,7 @@
       <workItem from="1712560210459" duration="13615000" />
       <workItem from="1712744526220" duration="8614000" />
       <workItem from="1712862108747" duration="11780000" />
+      <workItem from="1713077406705" duration="8802000" />
     </task>
     <task id="LOCAL-00001" summary="Lesson1_H_W">
       <option name="closed" value="true" />

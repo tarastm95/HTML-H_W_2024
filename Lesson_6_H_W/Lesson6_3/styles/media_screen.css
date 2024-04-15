@@ -1,0 +1,51 @@
+@media screen and (max-width: 768px) {
+    .second {
+        display: flex;
+        flex-direction: column;
+        margin: 5px;
+    }
+
+    .block-b-c-d-e {
+        width: 100%;
+        margin: 0;
+    }
+
+    .block-c-d-e {
+        margin: 0;
+        width: 100%;
+    }
+
+    .block-a {
+        height: 20vh;
+        margin: 5px;
+    }
+
+    .block-b {
+        height: 50vh;
+        width: 100%;
+    }
+
+    .block-c {
+        height: 20vh;
+        width: 33.33%;
+        margin: 5px 5px 5px 0;
+    }
+
+    .block-d {
+        height: 20vh;
+        width: 33.33%;
+        margin: 5px 5px 5px 5px;
+    }
+
+    .block-e {
+        height: 20vh;
+        width: 33.33%;
+        margin: 5px 0 5px 5px;
+    }
+
+    .block-f {
+        height: 20vh;
+        width: 100%;
+        margin-bottom: 5px;
+    }
+}
