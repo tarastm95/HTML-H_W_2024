@@ -205,3 +205,81 @@ html {
     padding-top: 8.75rem;
 }
 
+.block-3 {
+    padding-top: 14.1rem;
+}
+
+.block-3-gallery-h1 h1 {
+    color: #000;
+    text-align: center;
+
+    /* Subtitle / Base */
+    font-family: "Josefin Sans";
+    font-size: 2.6rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 3.5rem
+}
+
+.block-3-gallery-p p {
+    color: #000;
+    text-align: center;
+    font-family: "Open Sans";
+    font-size: 1.1rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.8rem;
+    opacity: 0.7;
+    width: 42.2vw;
+}
+
+.block-3-gallery-img-full {
+    padding-top: 3.7rem;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.block-3-gallery-img {
+    margin: 1rem;
+}
+
+.block-3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+}
+
+.block-3-wrapper {
+    width: 79.7vw;
+}
+
+.g-img {
+    max-width: 25.1vw;
+    height: 100%;
+}
+
+.block-3-gallery-p {
+    display: flex;
+    justify-content: center;
+}
+
+.block-3-load-more {
+    padding-top: 4.6rem;
+    display: flex;
+    justify-content: center;
+}
+
+.block-3-load-more a {
+    color: #FF4B32;
+    text-align: center;
+    font-family: "Open Sans";
+    font-size: 1.1rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.6rem;
+    text-transform: uppercase;
+    text-decoration: none;
+}
