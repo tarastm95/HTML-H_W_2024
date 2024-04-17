@@ -1,3 +1,8 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
 html {
     font-size: 16px;
 }
@@ -390,4 +395,218 @@ html {
 
 .block-4-social-link img{
     margin: 2.5rem;
+}
+
+
+.block-5 {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.block-5-wrapper {
+    min-width: 79.7vw;
+}
+
+.block-5-h1 h1 {
+    color: #000;
+    font-family: "Josefin Sans";
+    font-size: 2.6rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 3.4rem;
+    letter-spacing: 6px;
+    margin: 0;
+    padding: 0;
+}
+
+.block-5-p p {
+    color: #000;
+    text-align: center;
+    /* Body / Base */
+    font-family: "Open Sans";
+    font-size: 1.1rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.8rem;
+    opacity: 0.7;
+    margin: 0;
+    padding: 0;
+}
+
+.block5-products {
+    display: flex;
+    justify-content: space-around;
+}
+
+.block5-product-1-img img,
+.block5-product-2-img img,
+.block5-product-3-img img {
+    width: 21.5vw;
+    height: 100%;
+}
+
+
+.block5-product-1-name h2,
+.block5-product-2-name h2,
+.block5-product-3-name h2 {
+    color: #000;
+    /* Heading / Base */
+    font-family: "Josefin Sans";
+    font-size: 2rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 2.6rem;
+}
+
+.block5-product-1-more p,
+.block5-product-2-more p,
+.block5-product-3-more p {
+    color: #FF4B32;
+    font-family: "Open Sans";
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 1.6rem;
+}
+
+.block5-product-2-description p,
+.block5-product-1-description p,
+.block5-product-3-description p {
+    color: #000;
+    font-family: "Open Sans";
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.6rem;
+    opacity: 0.6;
+}
+
+.block5-product-3-description,
+.block5-product-2-description,
+.block5-product-1-description {
+    max-width: 17.8vw;
+}
+
+.block5-product-3,
+.block5-product-2,
+.block5-product-1 {
+    border-radius: 20px;
+    background: #FFF;
+    box-shadow: 40px 15px 136px 0px rgba(0, 0, 0, 0.20);
+}
+
+.block-5 {
+    padding-top: 9.5rem;
+}
+
+.block-5-text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.block-5-p {
+    width: 42.2vw;
+    padding-bottom: 3.75rem;
+}
+
+.block5-product-2-name,
+.block5-product-2-description,
+.block5-product-3-name,
+.block5-product-3-description,
+.block5-product-1-name,
+.block5-product-1-description {
+    padding-left: 2.1rem;
+}
+
+.block5-product-1-more,
+.block5-product-2-more,
+.block5-product-3-more {
+    padding-left: 2.3rem;
+}
+
+.block-5-h1 {
+    padding-bottom: 1.2rem;
+}
+
+.block-6 {
+    background-color:#0D0402;
+}
+
+.block-6-3-text,
+.block-6-2-text,
+.block-6-3-upper,
+.block-6-2-upper,
+.block-6-1-text,
+.block-6-4-upper,
+.block-6-bottom {
+    color: #FFF;
+    font-family: "Open Sans";
+    font-size: 1.1rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.7rem;
+}
+
+.block-6 {
+    margin-top: 8.7rem;
+    width: 100%;
+}
+
+.block-6-wrapper {
+    display: flex;
+    justify-content:space-around;
+    width: 79.7vw;
+    height: 38.5vh;
+}
+
+.block-6-wr-flex {
+    display: flex;
+    justify-content: center;
+
+}
+
+.block-6-wrapper {
+    margin-top: 4.8rem;
+}
+
+.block-6-2-text,
+.block-6-3-text {
+    margin-top: 1.2rem;
+}
+
+.block-6-1-text {
+    margin-top: 2.5rem;
+    width: 17.36vw;
+}
+
+.block-6-1-text-w-phone {
+    margin: 1.8rem 0 0 0;
+}
+
+.block-6-4-social {
+    margin-top: 2.2rem;
+}
+
+.block-6-4-social img{
+    padding-right: 1.7rem;
+}
+
+.block-6-bottom {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.block-6-bottom span {
+    color: #FFF;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 2.1rem;
 }
