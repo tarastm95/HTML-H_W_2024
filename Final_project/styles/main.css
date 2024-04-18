@@ -435,7 +435,7 @@ html {
     padding: 0;
 }
 
-.block5-products {
+.block5-products-s {
     display: flex;
     justify-content: space-around;
 }
@@ -460,9 +460,9 @@ html {
     line-height: 2.6rem;
 }
 
-.block5-product-1-more p,
-.block5-product-2-more p,
-.block5-product-3-more p {
+.block5-product-1-more p a,
+.block5-product-2-more p a,
+.block5-product-3-more p a{
     color: #FF4B32;
     font-family: "Open Sans";
     font-size: 1rem;
@@ -520,12 +520,15 @@ html {
 .block5-product-1-name,
 .block5-product-1-description {
     padding-left: 2.1rem;
+    padding-top: 1.8rem;
 }
 
 .block5-product-1-more,
 .block5-product-2-more,
 .block5-product-3-more {
     padding-left: 2.3rem;
+    padding-top: 1.2rem;
+    padding-bottom: 1.8rem;
 }
 
 .block-5-h1 {
@@ -551,6 +554,23 @@ html {
     line-height: 1.7rem;
 }
 
+.block-6-3-text a,
+.block-6-2-text a,
+.block-6-3-upper a,
+.block-6-2-upper a,
+.block-6-1-text a,
+.block-6-4-upper a,
+.block-6-bottom a {
+    color: #FFF;
+}
+
+.block-6-2-upper,
+.block-6-3-upper,
+.block-6-1-upper,
+.block-6-4-upper {
+    margin-top: 1.3rem;
+}
+
 .block-6 {
     margin-top: 8.7rem;
     width: 100%;
@@ -560,7 +580,7 @@ html {
     display: flex;
     justify-content:space-around;
     width: 79.7vw;
-    height: 38.5vh;
+    min-height: 38.5vh;
 }
 
 .block-6-wr-flex {
@@ -570,7 +590,7 @@ html {
 }
 
 .block-6-wrapper {
-    margin-top: 4.8rem;
+    margin-top: 3.6rem;
 }
 
 .block-6-2-text,
@@ -579,12 +599,15 @@ html {
 }
 
 .block-6-1-text {
-    margin-top: 2.5rem;
     width: 17.36vw;
+    margin-top: 0.2rem;
 }
 
 .block-6-1-text-w-phone {
-    margin: 1.8rem 0 0 0;
+    margin-top: 2.2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .block-6-4-social {
@@ -609,4 +632,8 @@ html {
     font-style: normal;
     font-weight: 400;
     line-height: 2.1rem;
+}
+
+a {
+    text-decoration: none;
 }
