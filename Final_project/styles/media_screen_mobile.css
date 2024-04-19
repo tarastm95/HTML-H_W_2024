@@ -1,4 +1,4 @@
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 600px) {
    .block5-products {
        display: flex;
        flex-direction: column;
@@ -65,6 +65,49 @@
     .block-6-bottom {
         padding-top: 1.2rem;
         padding-bottom: 1.2rem;
+    }
+
+    .block5-product-2-name,
+    .block5-product-2-description,
+    .block5-product-3-name,
+    .block5-product-3-description,
+    .block5-product-1-name,
+    .block5-product-1-description {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding-top: 2rem;
+        padding-left: 0;
+
+    }
+
+    .block5-product-1-more,
+    .block5-product-2-more,
+    .block5-product-3-more {
+        justify-content: center;
+        align-items: center;
+        padding: 2rem;
+        text-align: center;
+    }
+
+    .block5-product-3-description,
+    .block5-product-2-description,
+    .block5-product-1-description {
+        text-align: center;
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+
+    .block5-product-1,
+    .block5-product-2,
+    .block5-product-3 {
+        width: 80vw;
+    }
+
+    .block5-product-3-description,
+    .block5-product-2-description,
+    .block5-product-1-description {
+       max-width: 80vw;
     }
 
 }

@@ -9,6 +9,7 @@
       <change beforePath="$PROJECT_DIR$/Final_project/final_project.html" beforeDir="false" afterPath="$PROJECT_DIR$/Final_project/final_project.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Final_project/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Final_project/styles/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Final_project/styles/media_screen_mobile.css" beforeDir="false" afterPath="$PROJECT_DIR$/Final_project/styles/media_screen_mobile.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final_project/styles/media_screen_tablet.css" beforeDir="false" afterPath="$PROJECT_DIR$/Final_project/styles/media_screen_tablet.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,12 +19,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "tarastm95"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;tarastm95&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -94,6 +95,7 @@
       <workItem from="1713329889311" duration="12126000" />
       <workItem from="1713384615755" duration="8906000" />
       <workItem from="1713470621541" duration="1731000" />
+      <workItem from="1713516422774" duration="6083000" />
     </task>
     <task id="LOCAL-00001" summary="Lesson1_H_W">
       <option name="closed" value="true" />

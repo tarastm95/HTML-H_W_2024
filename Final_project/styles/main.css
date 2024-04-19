@@ -108,7 +108,7 @@ html {
 }
 
 .logo {
-    width: 9.3vw;
+    width: 139px;
 }
 
 .block-2 {
@@ -599,12 +599,11 @@ html {
 }
 
 .block-6-1-text {
-    width: 17.36vw;
-    margin-top: 0.2rem;
+    width: 21vw;
 }
 
 .block-6-1-text-w-phone {
-    margin-top: 2.2rem;
+    margin-top: 1.2rem;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -622,6 +621,11 @@ html {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.space{
+    height: 22px;
+    width: 100%;
 }
 
 .block-6-bottom span {
